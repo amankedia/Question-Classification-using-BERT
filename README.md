@@ -6,9 +6,9 @@ Question-Classification
 
 Classifying Questions into Coarse (6 classes) and Fine (50 classes) classes.
 
-In here, we used pre-trained embeddings from BERT and apply transfer learning to see if the performance improves from the earlier experiments on the same dataset.
+In here, we used pre-trained embeddings from BERT and applied transfer learning to see if the performance improves from the earlier experiments on the same dataset.
 
-The code and explanation for the previous experiment can be found at https://github.com/amankedia/Question-Classification.
+The code and explanation for the previous experimentation can be found at https://github.com/amankedia/Question-Classification.
 
 The dataset can also be downloaded from the same repository.
 
