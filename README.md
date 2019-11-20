@@ -12,6 +12,13 @@ The code and explanation for the previous experimentation can be found at https:
 
 The dataset can also be downloaded from the same repository.
 
+# Python and Tensforflow versions used
+
+<code>
+Python - 3.6
+
+Tensorflow - 2.0
+</code>
 # Results
 
 #### Coarse Set Accuracy: 97.4%
